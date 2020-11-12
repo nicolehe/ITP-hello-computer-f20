@@ -1,0 +1,49 @@
+[
+  {
+    "id": "31feb2e4-4823-4236-a0f4-4b8828c06c23",
+    "data": [
+      {
+        "text": "top it off with ",
+        "userDefined": false
+      },
+      {
+        "text": "shrooms",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "483f4ea6-5634-486e-9587-6cebc8d6100b",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "bacon",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": false
+      },
+      {
+        "text": " on my ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

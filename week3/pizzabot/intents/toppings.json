@@ -1,0 +1,54 @@
+{
+  "id": "425cda41-c6af-4711-8338-ba1816f4037f",
+  "parentId": "8ead5033-0c78-4279-8170-b20b55c8c3de",
+  "rootParentId": "8ead5033-0c78-4279-8170-b20b55c8c3de",
+  "name": "toppings",
+  "auto": true,
+  "contexts": [
+    "orderpizza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderpizza.orderpizza-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a2120c63-da24-42f6-9c97-8c4f2da96068",
+          "name": "toppings",
+          "required": false,
+          "dataType": "@toppings",
+          "value": "$toppings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh, you want $toppings.original? That\u0027s $toppings. That will go on your #orderpizza-followup.numberOfPizzas pizzas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

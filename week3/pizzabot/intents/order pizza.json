@@ -1,0 +1,74 @@
+{
+  "id": "8ead5033-0c78-4279-8170-b20b55c8c3de",
+  "name": "order pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "orderpizza-followup",
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6fa91f76-6e83-42d0-89e8-a73f0c45f12d",
+          "name": "pizza",
+          "required": false,
+          "dataType": "@pizza",
+          "value": "$pizza",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f4770c16-e9f5-4bed-b111-fc709c1b9cab",
+          "name": "numberOfPizzas",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$numberOfPizzas",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many pizzas do you want???"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You want a pizza? Cool! What toppings do you want?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "value": "meat",
+    "synonyms": [
+      "meat",
+      "sausage",
+      "pepperoni",
+      "ham",
+      "bacon"
+    ]
+  },
+  {
+    "value": "pineapple",
+    "synonyms": [
+      "pineapple",
+      "fruity",
+      "hawaiian"
+    ]
+  },
+  {
+    "value": "mushrooms",
+    "synonyms": [
+      "mushrooms",
+      "shrooms"
+    ]
+  },
+  {
+    "value": "tofu",
+    "synonyms": [
+      "tofu"
+    ]
+  }
+]

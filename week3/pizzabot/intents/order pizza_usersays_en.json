@@ -1,0 +1,84 @@
+[
+  {
+    "id": "7b2781e7-b7fd-43a9-ad93-a69478591737",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "numberOfPizzas",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pizzas",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c183869-5586-48c0-8962-fc9cd97535e1",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "za",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff498bf1-5f63-47e2-9926-957eda8b8aff",
+    "data": [
+      {
+        "text": "gimme a ",
+        "userDefined": false
+      },
+      {
+        "text": "bread wheel",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5c30f49-56b3-4747-9c55-c0249b2fc45e",
+    "data": [
+      {
+        "text": "pizza",
+        "meta": "@pizza",
+        "alias": "pizza",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
