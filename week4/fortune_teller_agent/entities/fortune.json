@@ -1,0 +1,9 @@
+{
+  "id": "bdbe39e0-07d9-4f0e-8c31-38637fd610e7",
+  "name": "fortune",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
