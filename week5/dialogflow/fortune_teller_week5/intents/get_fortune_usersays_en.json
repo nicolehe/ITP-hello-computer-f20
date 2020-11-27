@@ -1,0 +1,40 @@
+[
+  {
+    "id": "5f6be606-53ce-4f6c-8cb3-702825970f98",
+    "data": [
+      {
+        "text": "give me my ",
+        "userDefined": false
+      },
+      {
+        "text": "fortune",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ea419c-1ac0-432b-8c91-aadcd175b3a1",
+    "data": [
+      {
+        "text": "tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "fate",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

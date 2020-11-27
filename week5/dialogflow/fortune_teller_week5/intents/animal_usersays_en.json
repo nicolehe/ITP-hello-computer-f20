@@ -1,0 +1,89 @@
+[
+  {
+    "id": "df85bc7a-d01b-4ee5-8b00-63f302c285b3",
+    "data": [
+      {
+        "text": "i\u0027m obsessed with ",
+        "userDefined": false
+      },
+      {
+        "text": "kangaroos",
+        "meta": "@animals",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbdefb08-8ced-411e-bb38-2dd3a9ea2401",
+    "data": [
+      {
+        "text": "cat",
+        "meta": "@animals",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a3f2aba-f94e-4926-9eb9-384f8ab534e5",
+    "data": [
+      {
+        "text": "hippo",
+        "meta": "@animals",
+        "alias": "animal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9ea9600-91b8-4fda-b17a-0a110e32cfcc",
+    "data": [
+      {
+        "text": "i love ",
+        "userDefined": false
+      },
+      {
+        "text": "penguin",
+        "meta": "@animals",
+        "alias": "animal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34914be1-460a-4efa-bb31-dcf49e8b792e",
+    "data": [
+      {
+        "text": "my favorite animal is a ",
+        "userDefined": false
+      },
+      {
+        "text": "pig",
+        "meta": "@animals",
+        "alias": "animal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

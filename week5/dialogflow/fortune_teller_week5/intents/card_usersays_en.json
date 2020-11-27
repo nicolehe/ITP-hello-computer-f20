@@ -1,0 +1,28 @@
+[
+  {
+    "id": "0619de5d-c83d-419f-bdc9-b79a8c0b027d",
+    "data": [
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9386dad-ce40-433e-acea-9f037c3fe573",
+    "data": [
+      {
+        "text": "show me a card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
