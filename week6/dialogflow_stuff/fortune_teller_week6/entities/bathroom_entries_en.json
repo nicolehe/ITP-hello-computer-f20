@@ -1,0 +1,40 @@
+[
+  {
+    "value": "wash hands",
+    "synonyms": [
+      "wash hands",
+      "handwash",
+      "wash my hands"
+    ]
+  },
+  {
+    "value": "mirror",
+    "synonyms": [
+      "mirror",
+      "i look in the mirror",
+      "reflection"
+    ]
+  },
+  {
+    "value": "makeup",
+    "synonyms": [
+      "makeup",
+      "do my makeup",
+      "fix hair"
+    ]
+  },
+  {
+    "value": "phone",
+    "synonyms": [
+      "phone",
+      "find a phone",
+      "look at phone"
+    ]
+  },
+  {
+    "value": "pee",
+    "synonyms": [
+      "pee"
+    ]
+  }
+]

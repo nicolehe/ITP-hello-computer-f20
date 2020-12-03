@@ -1,0 +1,51 @@
+{
+  "id": "edef4b23-6153-4b3c-ba81-f0fdb0934b83",
+  "parentId": "ab74a5d4-c80b-4b1b-9f88-82c02ea84b77",
+  "rootParentId": "fab9aaa0-708c-41b4-9b81-3c3942ac62b6",
+  "name": "city",
+  "auto": true,
+  "contexts": [
+    "animal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get_fortune.get_fortune-custom.dream-custom.animal-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06601a50-5f9f-47e9-a16a-0348e1e18cb0",
+          "name": "city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

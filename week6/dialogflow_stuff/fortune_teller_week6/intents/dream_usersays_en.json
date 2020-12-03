@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d1f2e391-c103-4f5c-be5d-111c389e1f34",
+    "data": [
+      {
+        "text": "my dream was about cool stuff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5da5eba-bcee-45f7-932e-c2bfa7d8534a",
+    "data": [
+      {
+        "text": "i had a dream i was flying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "889778ed-5794-42aa-a3c9-949bdb323e42",
+    "data": [
+      {
+        "text": "i\u0027m dreamt about kitties",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

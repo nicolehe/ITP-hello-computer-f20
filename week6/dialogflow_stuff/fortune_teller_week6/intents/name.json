@@ -1,0 +1,59 @@
+{
+  "id": "970f6661-afcf-4cfd-b0d7-8574c5c91c18",
+  "parentId": "b3b6f5a8-c1f3-429a-aaa3-343a37f51447",
+  "rootParentId": "b3b6f5a8-c1f3-429a-aaa3-343a37f51447",
+  "name": "name",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "name-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9ed46120-005d-4bf5-a351-58fe103e98c2",
+          "name": "image",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$image",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nice to meet you, $image . You are standing on the 4th floor of 370 Jay Street. Do you turn left or right?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "99aff729-1e25-4464-b4f4-3b6df1a04df1",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "pee",
+        "meta": "@bathroom",
+        "alias": "image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caf4e7b3-06ae-4eb7-9895-2ac9c85f8a57",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "fix my hair",
+        "meta": "@bathroom",
+        "alias": "image",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18e8a3b6-46c5-43f5-9d4b-07787c2c9952",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "wash my hands",
+        "meta": "@bathroom",
+        "alias": "image",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

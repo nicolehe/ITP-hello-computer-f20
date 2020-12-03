@@ -1,0 +1,54 @@
+{
+  "id": "fd9a5d27-c0f2-4bab-9f94-4950257c113d",
+  "parentId": "970f6661-afcf-4cfd-b0d7-8574c5c91c18",
+  "rootParentId": "b3b6f5a8-c1f3-429a-aaa3-343a37f51447",
+  "name": "left",
+  "auto": true,
+  "contexts": [
+    "name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.name-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "22704059-70f3-4a7e-9e65-897e65c6c4ad",
+          "name": "image",
+          "required": false,
+          "dataType": "",
+          "value": "wall",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh no! You run into a wall and you die."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

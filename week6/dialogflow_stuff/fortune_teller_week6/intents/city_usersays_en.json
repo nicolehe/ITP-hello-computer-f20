@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6a44f5ac-0b65-494f-889f-ceaf5c81d566",
+    "data": [
+      {
+        "text": "currently, i am at ",
+        "userDefined": false
+      },
+      {
+        "text": "dublin",
+        "meta": "@sys.geo-city",
+        "alias": "city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0a1714a-e551-4d6e-858f-96a75cf26004",
+    "data": [
+      {
+        "text": "i reside in ",
+        "userDefined": false
+      },
+      {
+        "text": "beijing",
+        "meta": "@sys.geo-city",
+        "alias": "city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4415bbd-4364-4ef7-959b-9923fa1fa200",
+    "data": [
+      {
+        "text": "i\u0027m from ",
+        "userDefined": false
+      },
+      {
+        "text": "dallas",
+        "meta": "@sys.geo-city",
+        "alias": "city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0330a586-4677-4781-96e7-c70ca08a48c1",
+    "data": [
+      {
+        "text": "i live in ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "meta": "@sys.geo-city",
+        "alias": "city",
+        "userDefined": false
+      },
+      {
+        "text": " city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

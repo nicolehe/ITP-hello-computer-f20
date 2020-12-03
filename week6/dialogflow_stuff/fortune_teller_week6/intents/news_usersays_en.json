@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9082ea7d-3f05-4741-bc2d-e84a70fca9db",
+    "data": [
+      {
+        "text": "give me the latest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e0ffefb-2f4c-4007-ab33-13d6f930d8b8",
+    "data": [
+      {
+        "text": "tell me the news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6cab5ff-8f2a-4e94-ac1c-6d5ecee6badf",
+    "data": [
+      {
+        "text": "what\u0027s the latest news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

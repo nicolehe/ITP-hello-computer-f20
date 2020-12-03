@@ -1,0 +1,54 @@
+{
+  "id": "41326fba-5e22-4a89-866d-27c1d4972788",
+  "parentId": "970f6661-afcf-4cfd-b0d7-8574c5c91c18",
+  "rootParentId": "b3b6f5a8-c1f3-429a-aaa3-343a37f51447",
+  "name": "right",
+  "auto": true,
+  "contexts": [
+    "name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.name-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1aab4be3-73b3-4e54-a60a-ba5c724006af",
+          "name": "image",
+          "required": false,
+          "dataType": "",
+          "value": "toilet",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You walk into the bathroom. What do you do next?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
